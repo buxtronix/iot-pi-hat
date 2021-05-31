@@ -25,6 +25,9 @@ the Raspberry Pi compatible board available from my radio club, VK2BV.
 | 5mm screw terminal | ~ $0.40 |
 | PCB header strips | ~ $0.40 |
 
+# Schematic
+
+See [iot-board-hat.pdf](https://raw.githubusercontent.com/buxtronix/iot-pi-hat/master/iot-board-hat.pdf)
 
 # Contact
 
