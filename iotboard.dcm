@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 67298-3090
+D Female 2 port Right Angle Through Hole Type A USB Connector
+F http://docs-emea.rs-online.com/webdocs/13c4/0900766b813c46d1.pdf
+$ENDCMP
+#
+$CMP FC68127
+D RS Pro 3.5 mm PCB Mount Jack Socket, 4
+F https://docs-emea.rs-online.com/webdocs/12d1/0900766b812d152e.pdf
+$ENDCMP
+#
+#End Doc Library
