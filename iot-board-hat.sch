@@ -384,8 +384,6 @@ Entry Wire Line
 Wire Wire Line
 	4300 2700 4150 2700
 Wire Wire Line
-	4300 2800 4150 2800
-Wire Wire Line
 	4300 2900 4150 2900
 Wire Wire Line
 	4300 3000 4150 3000
@@ -399,8 +397,6 @@ Wire Wire Line
 	4300 3400 4150 3400
 Wire Wire Line
 	4300 3500 4150 3500
-Wire Wire Line
-	4300 3600 4150 3600
 Wire Wire Line
 	4300 3700 4150 3700
 Text Label 4200 2700 0    50   ~ 0
@@ -767,12 +763,38 @@ Wire Wire Line
 	5750 4100 5750 3400
 Wire Wire Line
 	5750 3400 6050 3400
+$Comp
+L power:GND #PWR0105
+U 1 1 60B9EE46
+P 3800 3850
+F 0 "#PWR0105" H 3800 3600 50  0001 C CNN
+F 1 "GND" H 3805 3677 50  0000 C CNN
+F 2 "" H 3800 3850 50  0001 C CNN
+F 3 "" H 3800 3850 50  0001 C CNN
+	1    3800 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 2800 3800 3600
+Connection ~ 3800 3600
+Wire Wire Line
+	3800 3600 3800 3850
+Text Label 5950 3100 0    50   ~ 0
+c-vid
+Text Label 5950 3400 0    50   ~ 0
+a-l
+Text Label 5950 3300 0    50   ~ 0
+a-r
 Wire Wire Line
 	4800 2600 5200 2600
 Wire Wire Line
 	4800 3000 5200 3000
 Wire Wire Line
 	4800 3300 5200 3300
+Wire Wire Line
+	3800 2800 4300 2800
+Wire Wire Line
+	3800 3600 4300 3600
 Wire Bus Line
 	4050 2300 4050 5500
 Wire Bus Line
