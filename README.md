@@ -20,6 +20,7 @@ club, VK2BV.
 | ------------------ | ------------ |
 | PCB (any Fab house)|  ~ $1 |
 | [Dual USB socket](https://au.rs-online.com/web/p/usb-connectors/8006848/)    | $2.34        |
+| or 2x[Single USB socket](https://au.rs-online.com/web/p/usb-connectors/1612306/)    | $1.12        |
 | [Micro USB socket](https://au.rs-online.com/web/p/usb-connectors/7025475/) | $1.85 |
 | [Polyfuse](https://au.rs-online.com/web/p/resettable-surface-mount-fuses/6478409/) | $0.42 |
 | [3.5mm jack](https://au.rs-online.com/web/p/jack-plugs-sockets/8051668/) | $2.06 |
@@ -38,6 +39,11 @@ of where the parts fit.
 The bottom of the board contains the female headers, all other parts are
 on the top. Ensure the 28-pin header goes against the board edge (J1/Pi),
 not the other 28-pin spot which is available for expansion use.
+
+The board allows for either one dual-usb socket to be mounted, or two
+single-usb sockets to be mounted. The latter is useful if using both USB
+ports and physical spacing necessitates. See [this image](images/render-4.jpg)
+for how the dual-socket version looks.
 
 # Usage
 
