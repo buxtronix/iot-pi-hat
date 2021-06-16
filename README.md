@@ -4,7 +4,7 @@ A board providing easy access to USB, power and other ports of
 the Raspberry Pi compatible board available from my amateur radio
 club, VK2BV.
 
-![Render](https://github.com/buxtronix/iot-pi-hat/blob/master/images/render-1.jpg?raw=true "Board render")
+![Render](images/render-1.jpg?raw=true "Board render")
 
 # Features
 
